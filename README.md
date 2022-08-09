@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
-- ⚡ Fun fact **I can play guitar and skateboard at the same time**
+- 💻 Check out my [website](https://noahvelasco.github.io)
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
