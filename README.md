@@ -1,6 +1,6 @@
 <!-- Last Updated: 8/9/22 -->
 
-<h1 align="center">Hi 👋, I'm Noah Velasco</h1>
+<h1 align="center">Hey! 👋 I'm Noah</h1>
 <h3 align="center">A passionate Software Developer from El Paso, TX</h3>
 
 </br>
