@@ -3,7 +3,7 @@
 <h1 align="center">Hey! I'm Noah 👋</h1>
 <h3 align="center">A passionate Software Developer from El Paso, TX</h3></br>
 
-- 🔭 I’m currently working on a start project "Campus Base"
+- 🔭 I’m currently working on a start-up project "Campus Base"
 
 - 🌱 I’m currently learning **Flutter App Development**
 
