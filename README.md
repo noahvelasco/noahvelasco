@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a start-up project "Campus Base"
 
-- 🌱 I’m currently learning **Flutter App Development**
+- 🌱 I’m currently learning more on **Flutter App Development**
 
 - 💬 Ask me about **Software Development, Flutter, Start Ups**
 
