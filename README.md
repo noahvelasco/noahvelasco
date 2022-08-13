@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning more on **Flutter App Development**
 
-- 💬 Ask me about **Software Development, Flutter, Start Ups**
+- 💬 Ask me about **Flutter, SDLC**
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
