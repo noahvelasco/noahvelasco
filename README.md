@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning more on **Flutter App Development**
 
-- 💬 Ask me about **Flutter, SDLC, UI/UX, Entrepreneurship **
+- 💬 Ask me about **Flutter, SDLC, UI/UX, Entrepreneurship**
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
