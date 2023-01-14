@@ -26,5 +26,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/noah-velasco-8b5135248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/noahvelasco.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a><a href="https://twitter.com/_Noah_Velasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" margin-left="20" margin-right="20" /></a>
 </p>
