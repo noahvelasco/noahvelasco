@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning more on **Flutter App Development**
 
-- 💬 Ask me about **Flutter, SDLC, UI/UX, Entrepreneurship**
+- 💬 Ask me about **Flutter, SDLC, UI/UX, Entrepreneurship, Stoicism**
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
-
-- 💻 Check out my [website](https://noahvelasco.github.io)
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
