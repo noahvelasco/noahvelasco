@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, SDLC, UI/UX, Data Science, Entrepreneurship, Stoicism**
 
-- ⚔️ On my free time I compete in [data science competitions](https://www.kaggle.com/noahpadilla) (follow me :))
+- ⚔️ On my free time I compete in [data science competitions](https://www.kaggle.com/noahpadilla) follow me ;)
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
