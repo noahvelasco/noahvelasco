@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning more on **Flutter App Development**
 
-- 💬 Ask me about **Flutter, SDLC, UI/UX, Entrepreneurship, Stoicism**
+- 💬 Ask me about **Flutter, SDLC, UI/UX, Data Science, Entrepreneurship, Stoicism**
+
+- ⚔️ On my free time I compete in [data science competitions](https://www.kaggle.com/noahpadilla) competitions (follow me :))
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
