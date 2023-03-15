@@ -1,15 +1,15 @@
 <!-- Last Updated: 8/9/22 -->
 
 <h1 align="center">Hey! I'm Noah 👋</h1>
-<h3 align="center">A passionate entrepreneur from El Paso, TX</h3></br>
+<h3 align="center">A passionate software developer from El Paso, TX</h3></br>
 
-- 🔭 I’m currently working on a start-up initiative **[Campus Base](https://www.campusbase.io)**
+- 🔭 I’m currently working on a start-up called **[Campus Base](https://www.campusbase.io)**
 
 - 🌱 I’m currently learning more on **Flutter App Development**
 
 - 💬 Ask me about **Flutter, SDLC, UI/UX, Data Science, Entrepreneurship, Stoicism**
 
-- ⚔️ On my free time I fly fpv drones and compete in **[data science competitions](https://www.kaggle.com/noahpadilla) - follow me ;)**
+- ⚔️ On my free time I skateboard, **[fly fpv drones](https://youtu.be/l0mEWY7gwhU)**, and compete in **[data science competitions](https://www.kaggle.com/noahpadilla) - follow me ;)**
 
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
@@ -33,14 +33,7 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
-
-
-
-
-
-
 </p>
-
 
 <br>
 
@@ -49,3 +42,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/noah-velasco-8b5135248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://www.instagram.com/noahvelasco.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a><a href="https://twitter.com/_Noah_Velasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" margin-left="20" margin-right="20" /></a>
 </p>
+
+<br>
+<br>
+<br>
+
+<h3 align="center">Check out my projects below!</h3>
+<br>
