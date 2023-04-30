@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Flutter, SDLC, UI/UX, Data Science, Entrepreneurship, Stoicism**
 
-- ⚔️ On my free time I skateboard, **[fly fpv drones](https://youtu.be/l0mEWY7gwhU)**, and compete in **[data science competitions](https://www.kaggle.com/noahpadilla) - follow me ;)**
-
 - 📫 How to reach me **noahvelasco299@gmail.com**
 
 <br>
