@@ -1,18 +1,33 @@
-<!-- Last Updated: 8/9/22 -->
-
-<h1 align="center">Hey! I'm Noah 👋</h1>
-<h3 align="center">A passionate software developer from El Paso, TX</h3></br>
-
-- 🔭 I’m currently working on a start-up called **[Campus Base](https://www.linkedin.com/company/campus-base/)**
-
-- 🌱 I’m currently learning more on **Flutter App Development**
-
-- 💬 Ask me about **Flutter, SDLC, UI/UX, Data Science, Entrepreneurship, Stoicism**
-
-- 📫 How to reach me **noahvelasco299@gmail.com**
-
+<h2 align="center"><strong>Welcome.<br>My name is Noah.</strong></h2>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+
+<h2 align="center">
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+<h2>
+
+<h3 align="center">I design and build software.</h3>
+<h3 align="center">Surprisingly, even for fun.</h3>
+<h3 align="center">Full Stack &ndash; Mobile &ndash; ML/CV.</h3>
+
+
+<h2 align="center">
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+&mdash;&mdash;&mdash;&mdash;
+&ndash;
+<h2>
+<br>
+
+<h3 align="center">Languages & Tools:</h3>
 <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="flutter" width="40" height="40"/></a> template for logos-->
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -36,17 +51,5 @@
 <br>
 
 <h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://dev.to/noahvelasco" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="" height="50" margin-left="20" margin-right="20" /></a><a href="https://www.linkedin.com/in/noah-velasco-8b5135248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://www.instagram.com/noahvelasco.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a><a href="https://twitter.com/_Noah_Velasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" margin-left="20" margin-right="20" /></a>
-
-
-
+<p align="center"><a href="https://dev.to/noahvelasco" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="" height="50" margin-left="20" margin-right="20" /></a><a href="https://www.linkedin.com/in/noah-velasco-8b5135248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://www.instagram.com/noahvelasco.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a><a href="https://twitter.com/_Noah_Velasco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" margin-left="20" margin-right="20" /></a>
 </p>
-
-<br>
-<br>
-<br>
-
-<h3 align="center">Check out my projects below!</h3>
-<br>
