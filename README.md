@@ -26,8 +26,6 @@
 &ndash;
 <p>
 
-<br>
-
 <h3 align="center">Languages & Tools:</h3>
 <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="flutter" width="40" height="40"/></a> template for logos-->
 <p align="center"> 
