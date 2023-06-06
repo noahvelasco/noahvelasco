@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Welcome.<br>My name is Noah.</strong></h2>
+<h3 align="center"><strong>Welcome, my name is Noah.</strong></h3>
 <br>
 
 <p align="center">
@@ -11,9 +11,9 @@
 &ndash;
 <p>
 
-<h3 align="center">I design and build software.</h3>
-<h3 align="center">Surprisingly, even for fun.</h3>
-<h3 align="center">Full Stack &ndash; Mobile &ndash; ML/CV.</h3>
+<p align="center">I design and build software.</p>
+<p align="center">Surprisingly, even for fun.</p>
+<p align="center">Full Stack &ndash; Mobile &ndash; ML/CV.</p>
 
 
 <p align="center">
