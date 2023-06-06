@@ -1,5 +1,7 @@
-<h3 align="center"><strong>Welcome, my name is Noah.</strong></h3>
+<h2 align="center"><strong>Welcome, my name is Noah.</strong></h2>
+<br>
 
+<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 <p align="center">
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
@@ -9,12 +11,8 @@
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
 <p>
-
 <p align="center">I design and build software.</p>
-<p align="center">Surprisingly, even for fun.</p>
 <p align="center">Full Stack &bull; Mobile &bull; ML/CV</p>
-
-
 <p align="center">
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
@@ -24,6 +22,8 @@
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
 <p>
+<br>
+<!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
 
 <h3 align="center">Languages & Tools:</h3>
 <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="flutter" width="40" height="40"/></a> template for logos-->
