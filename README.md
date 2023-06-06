@@ -13,7 +13,7 @@
 
 <p align="center">I design and build software.</p>
 <p align="center">Surprisingly, even for fun.</p>
-<p align="center">Full Stack &ndash; Mobile &ndash; ML/CV.</p>
+<p align="center">Full Stack &bull; Mobile &bull; ML/CV</p>
 
 
 <p align="center">
