@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Welcome.<br>My name is Noah.</strong></h2>
 <br>
 
-<h2 align="center">
+<p align="center">
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
@@ -9,14 +9,14 @@
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
-<h2>
+<p>
 
 <h3 align="center">I design and build software.</h3>
 <h3 align="center">Surprisingly, even for fun.</h3>
 <h3 align="center">Full Stack &ndash; Mobile &ndash; ML/CV.</h3>
 
 
-<h2 align="center">
+<p align="center">
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
@@ -24,7 +24,8 @@
 &ndash;
 &mdash;&mdash;&mdash;&mdash;
 &ndash;
-<h2>
+<p>
+
 <br>
 
 <h3 align="center">Languages & Tools:</h3>
