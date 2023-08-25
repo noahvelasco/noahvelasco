@@ -22,9 +22,9 @@
 <p>
 <br>
 <!-- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -->
-
-<h3 align="center">Languages & Tools:</h3>
 <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="flutter" width="40" height="40"/></a> template for logos-->
+<!--
+<h3 align="center">Languages & Tools:</h3>
 <p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -43,7 +43,8 @@
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
 </p>
-
+-->
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://dev.to/noahvelasco" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="" height="50" margin-left="20" margin-right="20" /></a><a href="https://www.linkedin.com/in/noah-velasco-8b5135248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
