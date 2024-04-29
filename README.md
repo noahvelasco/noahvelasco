@@ -2,7 +2,7 @@
 
 <ul>
 
-<li>💻 I'm learning LLM and Google Maps API's and at the moment</li>
+<li>💻 I'm learning LLM and Google Maps API's at the moment</li>
 
 <li>🤝 Learn more about me <u><a href="https://noahvelasco.github.io" target="_blank">here</a></u></li>
 
