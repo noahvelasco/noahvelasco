@@ -2,8 +2,8 @@
 
 <ul>
 
-<li>💻 I'm learning LLM and Google Maps API's at the moment</li>
+<li>👁️ Computer-Vision enthusiast but dabble in a little of everything</li>
 
-<li>🤝 Learn more about me <u><a href="https://noahvelasco.github.io" target="_blank">here</a></u></li>
+<li>ℹ💻 Learn more about me <u><a href="https://noahvelasco.github.io" target="_blank">here</a></u></li>
 
 </ul>
